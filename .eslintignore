@@ -1,4 +1,5 @@
 node_modules
+scripts/sheet-to-json.js
 README.md
 next-env.d.ts
 .next

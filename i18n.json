@@ -1,0 +1,10 @@
+{
+  "example" : "i18n 사용시 설정 파일",
+  "locales": ["ko", "en"],
+  "defaultLocale": "ko",
+  "pages": {
+    "*": ["common"],
+    "/": ["main"],
+    "/sub": ["about"]
+  }
+}
